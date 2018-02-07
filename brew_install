@@ -1,0 +1,16 @@
+ansible@2.0
+awscli
+dep
+docker
+docker-compose
+docker-machine
+flyway
+gdbm
+go
+libyaml
+openssl
+postgresql@9.6
+python3
+readline
+sqlite
+xz
